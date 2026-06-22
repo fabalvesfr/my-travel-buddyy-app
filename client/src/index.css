@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+  /* Derived from app-logo.png colour palette */
+  --color-brand-dark: #1E4A38;   /* dark teal outline */
+  --color-brand: #3D7A5C;        /* truck body green  */
+  --color-brand-light: #B5D9A8;  /* meadow light green */
+  --color-brand-accent: #6AAF35; /* CTA button green  */
+  --color-sky-buddy: #A8D4DE;    /* sky blue          */
+
+  --font-family-sans: 'system-ui', ui-sans-serif, sans-serif;
+}
