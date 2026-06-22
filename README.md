@@ -277,7 +277,7 @@ Recharts single chart point after parsing example:
 }
 ```
 
-![Weather Forecast chart](docs/screenshots/wheather-chart.png)
+![Weather Forecast chart](docs/screenshots/weather-chart.png)
 _Screen capture of the weather chart component implemented on the My Travel Buddy web application._
 
 ## Omissions & Trade-offs 🔄
