@@ -306,7 +306,7 @@ The current project served as a great reminder of how useful and efficient AI ca
 
 ## Ideas to expand the project 💡
 
-This app idea is very sellable and I do have a couple of ideas to turn it into a product and monetize it:
+Other than the improvements described in the _Omissions & Trade-offs_ section, there are a couple of business-related ideas which could turn this web app into an actual product and monetize it:
 
 - **B2C premium feature**: once the user has searched for a location, recommend a list of local service providers of those activities (museums, amusement parks, ski stations, surf instructors, etc.)
 - **B2B premium feature**: In-app ads for paying partners who wish their business featured on the app
